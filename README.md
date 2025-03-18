@@ -7,7 +7,7 @@ Painel de integração de redes.
 |----------------------------------|------------------------------------------------|
 | ✅ Verifica a VPN                | ❌ Não fornece VPN                             |
 | ✅ Verifica a conexão com a internet | ❌ Não fornece internet                        |
-| ✅ Acessa informação da empresa  | ❌ Não abre chamado para solucionar um problema |
+| ✅ Acessa informação da empresa  | ❌ Não fornece assistêcia técnica |
 
 
 ---
